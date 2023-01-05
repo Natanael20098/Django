@@ -4,3 +4,4 @@ from django.db import models
 class project(models.Model):
     nombre = models.CharField(max_length=100)
     
+    
